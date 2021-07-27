@@ -58,7 +58,7 @@ I learned alot about css grid and flexbox while builing this project. I have lea
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This helped me understand more about css grid. I really liked the way syntax are explained and will use it going forward.
+-(https://www.w3schools.com) - This helped me understand more about css grid. I really liked the way syntax are explained and will use it going forward.
 
 ## Author
 
