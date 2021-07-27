@@ -1,24 +1,64 @@
-# Testimonials-grid-section-main
-# Frontend Mentor - Testimonials grid section
+#  Frontend Mentor - Testimonials grid section solution
 
-![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Table of contents
 
-Thanks for checking out this front-end coding challenge.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
 
-## The challenge
+## Overview
 
-Your challenge is to build out this testimonials grid section and get it looking as close to the design as possible.
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-Your users should be able to:
+### The challenge
+-
+My challenge was to build out this testimonials grid section and get it looking as close to the design as possible.
+
+My users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
+  
+  ### Screenshot
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+![](C:\Users\Cama student\Desktop\Testimonials-grid-section-main\Screenshots\Desktop-view.png)
+![](C:\Users\Cama student\Desktop\Testimonials-grid-section-main\Screenshots\Mobile-view.png)
+![](C:\Users\Cama student\Desktop\Testimonials-grid-section-main\Screenshots\Crop-mobile-view.png)
+
+
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/soalemusharafa/Testimonials-grid-section-main)
+- Live Site URL: [Add live site URL here](https://soalemusharafa.github.io/Testimonials-grid-section-main/)
+
+
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+
+### What I learned
+
+I learned alot about css grid and flexbox while builing this project. I have learned new syntax espercially under css grid.
+
+### Useful resources
+
+- [Example resource 1](https://www.w3schools.com/) - This helped me understand more about css grid. I really liked the way syntax are explained and will use it going forward.
+
+## Author
+
+- Website - [soalemusharafa](https://github.com/soalemusharafa)
+- Frontend Mentor - [soalemusharafa](https://www.frontendmentor.io/profile/soalemusharafa)
