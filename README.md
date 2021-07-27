@@ -30,7 +30,8 @@ My users should be able to:
   
   ### Screenshot
 
-![](https://github.com/soalemusharafa/Testimonials-grid-section-main/blob/main/Screenshots/Desktop-view.png)
+![](https://github.com/soalemusharafa/Testimonials-grid-section-main/tree/main/Screenshots)
+
 
 
 ### Links
