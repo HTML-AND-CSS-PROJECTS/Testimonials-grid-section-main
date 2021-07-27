@@ -30,9 +30,7 @@ My users should be able to:
   
   ### Screenshot
 
-![](C:\Users\Cama student\Desktop\Testimonials-grid-section-main\Screenshots\Desktop-view.png)
-![](C:\Users\Cama student\Desktop\Testimonials-grid-section-main\Screenshots\Mobile-view.png)
-![](C:\Users\Cama student\Desktop\Testimonials-grid-section-main\Screenshots\Crop-mobile-view.png)
+![](https://github.com/soalemusharafa/Testimonials-grid-section-main/tree/main/Screenshots)
 
 
 ### Links
