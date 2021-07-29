@@ -30,15 +30,15 @@ My users should be able to:
   
   ### Screenshot
 
-![](https://github.com/soalemusharafa/Testimonials-grid-section-main/blob/main/Screenshots/Desktop-view.png)
-![](https://github.com/soalemusharafa/Testimonials-grid-section-main/blob/main/Screenshots/mobile-view2.png)
+![](https://github.com/HTML-AND-CSS-PROJECTS/Testimonials-grid-section-main/blob/main/Screenshots/Desktop-view.png)
+![](https://github.com/HTML-AND-CSS-PROJECTS/Testimonials-grid-section-main/blob/main/Screenshots/mobile-view2.png)
 
 
 
 
 ### Links
 
-- Solution URL:(https://github.com/soalemusharafa/Testimonials-grid-section-main)
+- Solution URL:(https://github.com/HTML-AND-CSS-PROJECTS/Testimonials-grid-section-main)
 - Live Site URL:(https://html-and-css-projects.github.io/Testimonials-grid-section-main/)
 
 
