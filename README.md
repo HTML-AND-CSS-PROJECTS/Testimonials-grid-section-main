@@ -39,7 +39,7 @@ My users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/soalemusharafa/Testimonials-grid-section-main)
-- Live Site URL:(https://soalemusharafa.github.io/Testimonials-grid-section-main/)
+- Live Site URL:(https://html-and-css-projects.github.io/Testimonials-grid-section-main/)
 
 
 
